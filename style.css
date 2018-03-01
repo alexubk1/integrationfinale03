@@ -30,6 +30,9 @@ nav {
    border-radius: 0;
 	color:white;
 }
+#text8, #text2, #text3, #text4, #text5, #text6{
+  color:white;
+}
 .logo{
   margin: 5px;
 }
