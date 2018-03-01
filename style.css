@@ -210,7 +210,7 @@ td {
 }
 
 .sep {
-  border-right: black solid 2px;
+  border-right: White solid 2px;
   color: white;
 }
 
@@ -523,5 +523,6 @@ footer{
     tranform:skew(-20deg);
  margin: auto;
  box-shadow: 0.3vw 0.3vw 0.3vw grey;
+	text-decoration-color: orange;
 }
 /* fin join the army */
